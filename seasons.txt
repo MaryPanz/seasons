@@ -1,0 +1,10 @@
+Prompt the user for a date of birth Y-M-D format
+Print how old are they in minutes
+Round the minutes
+Print output in words without "and" word
+Assume the user was born at midnight
+Assume current time is midnight
+Exit if the format of the date in incorrect
+Program doesn't raise exceptions
+
+Test functions with pytest
